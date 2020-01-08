@@ -1,0 +1,3 @@
+Para ingresar a la visualizacion acceder a la siguiente url:
+
+https://charts.mongodb.com/charts-project-0-wdpgz/public/dashboards/7af5c755-ec59-4f10-a235-66171bbef5a8
