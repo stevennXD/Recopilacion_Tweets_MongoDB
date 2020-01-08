@@ -10,6 +10,7 @@ Las libreria utilizada para la conexion entre Python y Mongodb atlas fueron:
 Por lo que es necesario ejecutar antes los siguientes comandos para importar las librerias necesarias:
 
 pip install pymongo
+
 pip install dnspython
 
 El segundo comando permitira trabajar con las URI de conexion proporcionada por Mongodb Atlas
