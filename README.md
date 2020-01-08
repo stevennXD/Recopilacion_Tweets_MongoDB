@@ -1,5 +1,7 @@
 # Recopilacion_Tweets_MongoDB
 
+Estudiante: Bryan Perez
+
 Para la mineria de datos en twitter se utilizo un script desarrollado en Python, para posteriormente almacenar los datos obtenidos en una base de datos en MongoDB Atlas.
 
 Las libreria utilizada para la conexion entre Python y Mongodb atlas fueron:
